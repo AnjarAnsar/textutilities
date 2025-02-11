@@ -18,10 +18,6 @@ Text Utility is a simple and versatile web-based application that allows users t
 
 ## Installation
 
-### Prerequisites
-
-- A modern web browser (for frontend-only use).
-- [Node.js](https://nodejs.org/) (if using a backend).
 
 ### Steps
 
