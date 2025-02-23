@@ -14,8 +14,7 @@ Text Utility is a simple and versatile web-based application that allows users t
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend** : Python (Django/Flask)
-
+- **Backend** : Python (Django)
 ## Installation
 
 
